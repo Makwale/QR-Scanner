@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">QRS</string>
+    <string name="title_activity_main">QRS</string>
+    <string name="package_name">com.qrs.emma</string>
+    <string name="custom_url_scheme">com.qrs.emma</string>
+</resources>
